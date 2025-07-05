@@ -1,4 +1,11 @@
-div{background-color: green;
+*{margin:0;padding:0;background-color: green;}
+body{width:80%; margin:0 auto;}
+div{
     padding:10px;
     color:white;
+}
+.blog{
+    margin:10px;
+    border:2px solid white;
+    border-radius:5px;
 }
